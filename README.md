@@ -3,7 +3,7 @@
 ### :man_technologist: About me:
 <p style="font-weight: bold;">👋 𝙷𝚎𝚕𝚕𝚘! My name is Vladislav. I'm a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Currently, I am studying at GoIT. During my studies, I am gaining deep knowledge of HTML, CSS and JavaScript, as well as exploring popular frameworks and tools such as React, Sass and Git. My main goal is to become a skilled front-end developer and create beautiful, interactive, and user-friendly web applications. I strive not only to enhance my programming skills but also to develop my creativity and problem-solving abilities.</p>
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Vladislav Aldoshin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Владислав%20Алдошин) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aldoshinvladislav87@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-VladislavAldoshin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Владислав%20Алдошин) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aldoshinvladislav87@gmail.com)
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>

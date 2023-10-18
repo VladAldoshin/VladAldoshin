@@ -1,7 +1,10 @@
 <h1 align="center">Sometimes You Win - Sometimes You Learn🧑‍💻</h1>
 
 ### :man_technologist: About me:
-<p style="font-weight: bold;">👋 𝙷𝚎𝚕𝚕𝚘! My name is Vladislav. I'm a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Currently, I am studying at GoIT. During my studies, I am gaining deep knowledge of HTML, CSS and JavaScript, as well as exploring popular frameworks and tools such as React, Sass and Git. My main goal is to become a skilled front-end developer and create beautiful, interactive, and user-friendly web applications. I strive not only to enhance my programming skills but also to develop my creativity and problem-solving abilities.</p>
+<p style="font-weight: bold;">👋 𝙷𝚎𝚕𝚕𝚘! My name is Vladislav. I'm a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+I have a strong foundation in web development, with expertise in HTML, CSS, and JavaScript. I'm also well-versed in popular frameworks and tools like React, Sass, and Git.
+My passion lies in creating beautiful, interactive, and user-friendly web applications. I'm dedicated to enhancing my programming skills and constantly improving my problem-solving abilities.
+Feel free to reach out if you have any exciting projects or opportunities!</p>
 
 - :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/VladAldoshin) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aldoshinvladislav87@gmail.com)
 
@@ -11,7 +14,7 @@
 
 ### 🤝 Social media:
 <div id="badges">
-<a href="" target="_blank">
+<a href="linkedin.com/in/aldoshinvladislav" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
 </a>
 </div>

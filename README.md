@@ -1,4 +1,9 @@
-<h1 align="center">Sometimes You Win - Sometimes You Learn🧑‍💻</h1>
+<!-- <h1 align="center">Sometimes You Win - Sometimes You Learn🧑‍💻</h1> -->
+<h1 align="center">
+  <span style="color: blue;">Sometimes You Win</span> -
+  <span style="color: yellow;">Sometimes You Learn🧑‍💻</span>
+</h1>
+
 
 ### :man_technologist: About me:
 <p style="font-weight: bold;">👋 𝙷𝚎𝚕𝚕𝚘! My name is Vladislav. I'm a Junior Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
@@ -14,7 +19,7 @@ Feel free to reach out if you have any exciting projects or opportunities!</p>
 
 ### 🤝 Social media:
 <div id="badges">
-<a href="linkedin.com/in/aldoshinvladislav" target="_blank">
+<a href="https://www.linkedin.com/in/aldoshinvladislav" target="_blank">
 <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
 </a>
 </div>

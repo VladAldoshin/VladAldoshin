@@ -1,8 +1,4 @@
-<!-- <h1 align="center">Sometimes You Win - Sometimes You Learn🧑‍💻</h1> -->
-<h1 align="center">
-  <span style="color: blue;">Sometimes You Win</span> -
-  <span style="color: yellow;">Sometimes You Learn🧑‍💻</span>
-</h1>
+<h1 align="center">Sometimes You Win - Sometimes You Learn🧑‍💻</h1>
 
 
 ### :man_technologist: About me:
